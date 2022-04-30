@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiASI_Project2_MedicalSupportSystem", "MiASI_Project2_MedicalSupportSystem\MiASI_Project2_MedicalSupportSystem.csproj", "{45963B6D-57E1-4B9A-B63A-93EC5BE54F46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{BF12E5C2-8071-446D-9697-3DB3421CE606}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45963B6D-57E1-4B9A-B63A-93EC5BE54F46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45963B6D-57E1-4B9A-B63A-93EC5BE54F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45963B6D-57E1-4B9A-B63A-93EC5BE54F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45963B6D-57E1-4B9A-B63A-93EC5BE54F46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF12E5C2-8071-446D-9697-3DB3421CE606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF12E5C2-8071-446D-9697-3DB3421CE606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF12E5C2-8071-446D-9697-3DB3421CE606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF12E5C2-8071-446D-9697-3DB3421CE606}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAE4FD5D-80E1-4AF9-8E3E-749720EAA150}
+	EndGlobalSection
+EndGlobal
